@@ -200,9 +200,9 @@ SnapTranslator.dict.ia = {
     // GUI
     // control bar:
     'untitled':
-        'innominate', // 'nulle titulo'
+        'sin titulo', // 'nulle titulo'
     'development mode':
-        'disveloppation moda',
+        'modo de disveloppamento',
 
     // categories:
     'Motion':
@@ -214,13 +214,13 @@ SnapTranslator.dict.ia = {
     'Pen':
         'Penna',
     'Control':
-        'Reger',
+        'Controlo',
     'Sensing':
         'Sensation',
     'Operators':
-        'Operators',
+        'Operatores',
     'Variables':
-        'Cassas',
+        'Variabiles',
     'Lists':
         'Listas',
     'Other':
@@ -228,15 +228,15 @@ SnapTranslator.dict.ia = {
 
     // editor:
     'draggable':
-        'traheribile',
+        'trahibile',
 
     // tabs:
     'Scripts':
-        'Scriptes',
+        'Scripts',
     'Costumes':
         'Costumes',
     'Sounds':
-        'Sonas',
+        'Sonos',
 
     // names:
     'Sprite':
@@ -246,21 +246,21 @@ SnapTranslator.dict.ia = {
 
     // rotation styles:
     'don\'t rotate':
-        'non rota',
+        'non rotabile',
     'can rotate':
-        'capabile de rota',
+        'rotabile',
     'only face left/right':
-        'sol facie sinistre o dextre',
+        'solmente rotabile a sinistra o dextra',
 
     // new sprite button:
     'add a new sprite':
-        'adde spirito nove',
+        'adder spirito nove',
 
     // tab help
     'costumes tab help':
-        'costumes adjuta',
+        'adjuta sur le scheda de costumes',
     'import a sound from your computer\nby dragging it into here':
-        'face importa un sono per trahe hic',
+        'importa un sono de tu computator\nper traher lo a hic',
 
     // primitive blocks:
 
@@ -296,254 +296,254 @@ SnapTranslator.dict.ia = {
 
     // motion:
     'Stage selected:\nno motion primitives':
-        'Scena selecte:\n'
-	+ 'nulle motion primitives',
+        'Scena seligite:\n'
+	+ 'nulle primitivos de motion',
 
     'move %n steps':
-        'move %n passos',
+        'mover %n passos',
     'turn %clockwise %n degrees':
-        'torna %clockwise %n grados',  // dirige
+        'tornar %clockwise %n grados',  // dirige
     'turn %counterclockwise %n degrees':
-        'torna %counterclockwise %n grados',
+        'tornar %counterclockwise %n grados',
     'point in direction %dir':
-        'puncta direction %dir',
+        'punctar in direction %dir',
     'point towards %dst':
-        'puncta erga %dst',
+        'punctar verso %dst',
     'go to x: %n y: %n':
         'ir a x: %n y: %n',  // 'adi'
     'go to %dst':
         'ir a %dst',
     'glide %n secs to x: %n y: %n':
-        'glissa %n secundes a x: %n y: %n',
+        'glissar in %n secundas a x: %n y: %n',
     'change x by %n':
-        'cambia x per %n',
+        'cambiar x per %n',
     'set x to %n':
-        'in x pone %n', // 'pone in x le valo %n',
+        'mitter x a %n', // 'poner in x le valor %n',
     'change y by %n':
-        'cambia y per %n',
+        'cambiar y per %n',
     'set y to %n':
-        'in y pone %n',
+        'mitter y a %n',
     'if on edge, bounce':
-        'si in bordo talia, recula',
+        'si al bordo, recular',
     'x position':
-        'x position',
+        'position x',
     'y position':
-        'y position',
+        'position y',
     'direction':
         'direction',
 
     // looks:
     'switch to costume %cst':
-        'cambio a costume %cst',
+        'cambiar al costume %cst',
     'next costume':
         'proxime costume',
     'costume #':
-        'costume numero',
+        'numero del costume',
     'say %s for %n secs':
-        'dice %s per %n secundes',
+        'dicer %s durante %n secundas',
     'say %s':
-        'dice %s',
+        'dicer %s',
     'think %s for %n secs':
-        'pensa %s per %n secundes',
+        'pensar %s durante %n secundas',
     'think %s':
-        'pensa %s',
+        'pensar %s',
     'Hello!':
         'Hallo!',
     'Hmm...':
         'Hmm...',
     'change %eff effect by %n':
-        'cambia %eff effecto per %n',
+        'cambiar effecto %eff per %n',
     'set %eff effect to %n':
-        'in %eff pone effecto %n',
+        'mitter effecto %eff a %n',
     'clear graphic effects':
-        'depura effectos graphic',
+        'rader effectos graphic',
     'change size by %n':
-        'accrescimento dimensiones per %n',
+        'cambiar dimension per %n',
     'set size to %n %':
-        'delimita dimentiones a %n %',
+        'mitter dimension a %n %',
     'size':
-        'dimentiones',
+        'dimension',
     'show':
-        'expone',  // 'monstra'
+        'monstrar',  // 'monstrar'
     'hide':
-        'cela',   // 'occulta'
+        'celar',   // 'occultar'
     'go to front':
-        'antepone',  // 'ir maxima ante',
+        'ir al fronte',  // 'ir al prime plano',
     'go back %n layers':
-        'ir detra %n strato',
+        'ir retro %n stratos',
 
     'development mode \ndebugging primitives:':
-        'disveloppa modo \n'
-	+ 'anti-defacto primitives',
+        'modo de disveloppamento \n'
+	+ 'primitivos anti-defecto',
     'console log %mult%s':
-        'entra in registration %mult%s',
+        'registrar %mult%s in console',
     'alert %mult%s':
-        'alerte %mult%s',
+        'alertar %mult%s',
 
     // sound:
     'play sound %snd':
-        'sona %snd',  // 'face sono %snd',
+        'reproducer sono %snd',  // 'face sono %snd',
     'play sound %snd until done':
-        'sona %snd usque complete', // 'sona %snd integral',
+        'reproducer sono %snd usque al fin', // 'sona %snd integral',
     'stop all sounds':
-        'cessar sona tote',
+        'stoppar tote le sonos',
     'rest for %n beats':
-        'pausa per %n pulsia',
+        'pausar durante %n pulsos',
     'play note %n for %n beats':
-        'sona nota %n per %n pulsia',
+        'sonar nota %n durante %n pulsos',
     'change tempo by %n':
-        'cambio tempo per %n',
+        'cambiar tempo per %n',
     'set tempo to %n bpm':
-        'face tempo a %n pulsia per minuta',
+        'mitter tempo a %n pulsos per minuta',
     'tempo':
         'tempo',
 
     // pen:
     'clear':
-        'depura',
+        'rader',
     'pen down':
-        'face penna a basso',
+        'penna a basso',
     'pen up':
-        'face penna in alto',
+        'penna in alto',
     'set pen color to %clr':
-        'face color del penna a %clr',
+        'mitter color del penna a %clr',
     'change pen color by %n':
-        'cambia color del penna a %n',
+        'cambiar color del penna a %n',
     'set pen color to %n':
-        'face color del penna a %n',
+        'mitter color del penna a %n',
     'change pen shade by %n':
-        'cambio tinta del penna per %n', 
+        'cambiar tinta del penna per %n', 
     'set pen shade to %n':
-        'face tinta del penna a %n',
+        'mitter tinta del penna a %n',
     'change pen size by %n':
-        'cambio dimension del penna per %n',
+        'cambiar dimension del penna per %n',
     'set pen size to %n':
-        'face dimension del penna a %n',
+        'mitter dimension del penna a %n',
     'stamp':
-        'timbra',  // 'cunea' 'stampa'
+        'timbrar',  // 'stampar'
 
     // control:
     'when %greenflag clicked':
-        'cuando %greenflag clic',
+        'quando on clicca sur %greenflag',
     'when %keyHat key pressed':
-        'cuando %keyHat clave pressa',
+        'quando on preme le clave %keyHat',
     'when I am %interaction':
-        'cuando io es %interaction',
+        'quando io es %interaction',
     'clicked':
-        'clicco',
+        'cliccate',
     'pressed':
-        'pressa',
+        'premite',
     'dropped':
-        'depone',
+        'deponite',
     'mouse-entered':
-        'mure entra',
+        'entrate con mus',
     'mouse-departed':
-        'mure parti',  // 'quita'
+        'quitate con mus',  // 'quita'
     'when I receive %msgHat':
-        'cuando io recipe %msgHat',
+        'quando io recipe %msgHat',
     'broadcast %msg':
-        'mitte %msg a omne',
+        'diffunder %msg',
     'broadcast %msg and wait':
-        'mitte %msg a omni e attende',
+        'diffunder %msg e attender',
     'Message name':
         'Nomine de message',
     'message':
         'message',
     'any message':
-        'qualcosa message',  // 'cualcunque message'
+        'qualcunque message',
     'wait %n secs':
-        'attende %n secundes',
+        'attende %n secundas',
     'wait until %b':
-        'attende donec %b',
+        'attende usque %b',
     'forever %c':
         'sin termino %c',
     'repeat %n %c':
-        'itera %n %c',
+        'repeter %n %c',
     'repeat until %b %c':
-        'itera donec %b %c',
+        'repeter usque %b %c',
     'if %b %c':
         'si %b %c',
     'if %b %c else %c':
-        'si %b %c nisi %c',
+        'si %b %c si non %c',
     'report %s':
-        'reporta %s', // 'valor restituite'
+        'reportar %s', // 'valor restituite'
     'stop %stopChoices':
-        'cessa %stopChoices',
+        'stoppar %stopChoices',
     'all':
-        'omni',
+        'totes',
     'this script':
-        'iste scripte',  // 'este'
+        'iste script',
     'this block':
         'iste bloco',
     'stop %stopOthersChoices':
-        'cessa %stopOthersChoices',
+        'stoppar %stopOthersChoices',
     'all but this script':
-        'omni excepte iste scripte',
+        'totes excepte iste script',
     'other scripts in sprite':
-        'altere scriptes in iste spirito',
+        'altere scripts in le spirito',
     'pause all %pause':
-        'pausa omni %pause',
+        'pausar tote le %pause',
     'run %cmdRing %inputs':
-        'comencia %cmdRing %inputs', // 'initio'
+        'executar %cmdRing %inputs', // 'initio'
     'launch %cmdRing %inputs':
-        'lancea %cmdRing %inputs',
+        'lancear %cmdRing %inputs',
     'call %repRing %inputs':
-        'evoca %repRing %inputs',
+        'appellar %repRing %inputs',
     'run %cmdRing w/continuation':
-        'comencia %cmdRing con continuation',
+        'executar %cmdRing con continuation',
     'call %cmdRing w/continuation':
-        'evoca %cmdRing con continuation',
+        'appellar %cmdRing con continuation',
     'warp %c':
-        'ordi %c',  // 'ordito'
+        'saltar %c', // [it, es] executar in modo turbo; [pt] executar atomicamente
     'when I start as a clone':
-        'quando io comencia como copia',
+        'quando io comencia como clon',
     'create a clone of %cln':
-        'face un copia de %cln',
+        'crear un clon de %cln',
     'myself':
         'io mesme',
     'delete this clone':
-        'dele ista copia',
+        'deler iste clon',
 
     // sensing:
     'touching %col ?':
-        'continge %col ?',
+        'tocca io %col ?',
     'touching %clr ?':
-        'continge %clr ?',
+        'tocca io %clr ?',
     'color %clr is touching %clr ?':
-        'color %clr es continge %clr ?',
+        'le color %clr tocca %clr ?',
     'ask %s and wait':
-        'demanda %s e attende',
+        'demandar %s e attender',
     'what\'s your name?':
         'que es tu nomine?',
     'answer':
-        'responde',
+        'responder',
     'mouse x':
-        'mure x position',
+        'x del mouse',
     'mouse y':
-        'mure y position',
+        'y del mouse',
     'mouse down?':
-        'a mure es a basso?',
+        'mouse a basso?',
     'key %key pressed?':
-        'a clave %key pressa?',
+        'clave %key premite?',
     'distance to %dst':
         'distantia a %dst',
     'reset timer':
-        'recomenciar le chronometria',
+        'reinitialisar chronometro',
     'timer':
-        'chronometria',
+        'chronometro',
     '%att of %spr':
         '%att de %spr',
     'http:// %s':
         'http:// %s',
     'turbo mode?':
-        'a turbo modo?',
+        'modo turbo?',
     'set turbo mode to %b':
-        'face turbo modo a %b',
+        'mitter modo turbo a %b',
 
     'filtered for %clr':
-        'filtra per %clr',
+        'filtrate pro %clr',
     'stack size':
-        'pila dimensione',
+        'dimension del pila',
     'frames':
         'quadros',
 
@@ -551,11 +551,11 @@ SnapTranslator.dict.ia = {
     '%n mod %n':
         '%n modulo %n',
     'round %n':
-        '%n rotunda',
+        'rotundar %n',
     '%fun of %n':
         '%fun de %n',
     'pick random %n to %n':
-        'al aventura inter %n e %n',  // 'al hasardo'
+        'numero aleatori inter %n e %n',  // 'al hasardo'
     '%b and %b':
         '%b e %b',
     '%b or %b':
@@ -567,59 +567,59 @@ SnapTranslator.dict.ia = {
     'false':
         'false',
     'join %words':
-        'junge %words',
+        'unir %words',
     'split %s by %delim':
-        'fisse %s de %delim',
+        'separar %s per %delim',
     'hello':
-        'Hallo',
+        'hallo',
     'world':
-        'Mundo',
+        'mundo',
     'letter %n of %s':
-        'character %n de %s',
+        'littera %n de %s',
     'length of %s':
         'longor de %s',
     'unicode of %s':
-        'Unicode valor de %s',
+        'valor Unicode de %s',
     'unicode %n as letter':
-        'Unicode character pro %n',
+        'valor Unicode %n como littera',
     'is %s a %typ ?':
-        'a es %s de %typ ?',
+        'es %s un %typ ?',
     'is %s identical to %s ?':
-        'a es %s identic a %s ?', // 'mesme' ?
+        'es %s identic a %s ?',
 
     'type of %s':
         'typo de %s',
 
     // variables:
     'Make a variable':
-        'Nove Cassa',  // 'Face Cassa'
+        'Crear un variabile',
     'Variable name':
-        'Nomine de Cassa',  // global?
+        'Nomine del variabile',  // global?
     'Script variable name':
-        'Nomine de Scripte Cassa',
+        'Nomine del variabile de script', // local?
     'Delete a variable':
-        'Dele un Cassa',
+        'Deler un variabile',
 
     'set %var to %s':
-        'in %var pone %s',
+        'mitter %var a %s',
     'change %var by %n':
-        'cambio %var per %n',
+        'cambiar %var per %n',
     'show variable %var':
-        'expone cassa %var',
+        'monstrar variabile %var',
     'hide variable %var':
-        'cella cassa %var',  // 'occulta'
+        'celar variabile %var',  // 'occultar'
     'script variables %scriptVars':
-        'cassas de scripte %scriptVars',
+        'variabiles de script %scriptVars',
 
     // lists:
     'list %exp':
-        'Liste %exp',
+        'lista %exp',
     '%s in front of %l':
-        '%s es ante que %l',
+        '%s es ante %l',
     'item %idx of %l':
         'elemento %idx de %l',
     'all but first of %l':
-        'onme excepte prime de %l',
+        'totes excepte le prime de %l',
     'length of %l':
         'longor de %l',
     '%l contains %s':
@@ -627,321 +627,316 @@ SnapTranslator.dict.ia = {
     'thing':
         'cosa',
     'add %s to %l':
-        'adde %s e %l',
+        'adder %s a %l',
     'delete %ida of %l':
-        'dele %ida de %l',
+        'deler %ida de %l',
     'insert %s at %idx of %l':
-        'inserta %s in %idx de %l',
+        'inserer %s in %idx de %l',
     'replace item %idx of %l with %s':
-        'reimplacia elemento %idx de %l con %s',  // surroga
+        'reimplaciar elemento %idx de %l per %s',
 
     // other
     'Make a block':
-        'Face un bloco',
+        'Crear un bloco',
 
     // menus
     // snap menu
     'About...':
-        'In re Snap!...',  
+        'A proposito...',  
     'Reference manual':
-        'Manual referentia ',
+        'Manual de referentia',
     'Snap! website':
-        'Snap! sito web',
+        'Sito web de Snap!',
     'Download source':
-        'Discarga fonte',
+        'Discargar fonte',
     'Switch back to user mode':
-        'Cambio retro a modo usator',
+        'Retornar a modo usator',
     'disable deep-Morphic\ncontext menus\nand show user-friendly ones':
-        'Face inactive profunde Morphic\n'
-        + 'menus contexto e\n'
-        + 'expone se usator amicabile',
+        'Disactivar le menus contextual\n'
+        + 'de "deep-Morphic" e monstrar\n'
+        + 'le menus facile a comprender',
     'Switch to dev mode':
-        'Cambio a modo disveloppator',
+        'Cambiar al modo disveloppator',
     'enable Morphic\ncontext menus\nand inspectors,\nnot user-friendly!':
-        'Face active Morphic\n'
-		+ 'menus contexto e inspector,\n'
-		+ 'non amicabile de usatores',
+        'Activar le menus contextual\n'
+		+ 'e inspectores de Morphic,\n'
+		+ 'non facile a usar!',
 
     // project menu
     'Project notes...':
-        'Annotos de projecto...',
+        'Notas del projecto...',
     'New':
-        'Nova',
+        'Nove',
     'Open...':
-        'Aperte...',
+        'Aperir...',
     'Save':
-        'Salvo', // 'Secur'
+        'Salveguardar',
     'Save to disk':
-        'Salvo in file',  // 'Salve/Secur a systema de files'
+        'Salveguardar sur disco',
     'store this project\nin the downloads folder\n(in supporting browsers)':
-        'Pone esti projecto\n'
-        + 'in dossier discarga\n'
-        + '(per navigators sustene)',
+        'immagazinar iste projecto\n'
+        + 'in le dossier de discargamentos\n'
+        + '(pro navigatores capabile de isto)',
     'Save As...':
-        'Salvo como nomine...',
+        'Salveguardar como...',
     'Import...':
-        'Importa...',
+        'Importar...',
     'file menu import hint':
-        'Importa insinua per menu de file ',
+        'aviso sur importation pro le menu File',
     'Export project as plain text...':
-        'Exporta projecto in texto simple...',
+        'Exportar projecto in texto simple...',
     'Export project...':
-        'Exporta projecto...',
+        'Exportar projecto...',
     'show project data as XML\nin a new browser window':
-        'Expone dato de projecto in XML\n'
-        + 'immane nove fenestra de navigator',
-        // vitrina
+        'Monstrar datos del projecto in XML\n'
+        + 'in un nove fenestra del navigator',
     'Export blocks...':
-        'Exporta blocos...',
+        'Exportar blocos...',
     'show global custom block definitions as XML\nin a new browser window':
-        'Expone blocos artificiose global como XML\n'
-        + 'immane nove fenestra de navigator',
+        'monstrar le definitiones global de blocos personalisate in XML\n'
+        + 'in un nove fenestra de navigator',
     'Import tools':
-        'Importa utensiles',
+        'Importar utensiles',
     'load the official library of\npowerful blocks':
-        'Incarga bibliotheca official de blocos potente',
+        'cargar le bibliotheca official\nde blocos potente',
     'Libraries...':
         'Bibliothecas...',
     'Import library':
-        'Importa bibliotheca',
+        'Importar bibliotheca',
 
     // cloud menu
     'Login...':
-        'Authenticar se...',
+        'Aperir session...',
     'Signup...':
-        'Abonamento...',
+        'Crear conto...',
 
     // settings menu
     'Language...':
         'Lingua...',
     'Zoom blocks...':
-        'Zoom blocos...',
+        'Zoom de blocos...',
     'Stage size...':
-        'Scena dimensiones...',
+        'Dimension del scena...',
     'Stage size':
-        'Scena dimensiones',
+        'Dimension del scena',
     'Stage width':
-        'Scena traverso',
+        'Largor del scena',
     'Stage height':
-        'Scena statura',
+        'Altor del scena',
     'Default':
-        'Normal',
+        'Predefinition',
     'Blurred shadows':
-        'Umbre indistincte',
+        'Umbras indistincte',
     'uncheck to use solid drop\nshadows and highlights':
-        'dismarca por usa gutta umbras\n'
-        + 'e accentuas solide',
+        'dismarcar pro usar umbras\n'
+        + 'e illuminationes solide',
     'check to use blurred drop\nshadows and highlights':
-        'marca a selecte por usa gutta umbras\n'
-        + 'e accentuas indistincte',
+        'marcar pro usar umbras\n'
+        + 'e illuminationes indistincte',
     'Zebra coloring':
-        'Zebra colorito',
+        'Coloration zebra',
     'check to enable alternating\ncolors for nested blocks':
-        'marca a selecta colors alternative\n'
-        + 'por blocos annida',
+        'marca pro activar colores\n'
+        + 'alternante pro blocos annidate',
     'uncheck to disable alternating\ncolors for nested block':
-        'dismarca a disactiva colors alternative\n'
-        + 'por blocos annida',
+        'dismarca pro disactivar colores\n'
+        + 'alternante pro blocos annidate',
     'Dynamic input labels':
-        'Dynamic etiquettas entrata',
+        'Etiquettas de entrata dynamic',
     'uncheck to disable dynamic\nlabels for variadic inputs':
-        'dismarca a disactiva dynamic\n'
-        + 'etiquettas varia entrata', // 'variante'
+        'dismarca pro disactivar etiquettas\n'
+        + 'dynamic pro entratas variadic',
     'check to enable dynamic\nlabels for variadic inputs':
-        'marca a activa dynamic\n'
-        + 'etiquetta varia entrata',
+        'marca pro activar etiquettas\n'
+        + 'dynamic pro entratas variadic',
     'Prefer empty slot drops':
-        'Dar le preferentia a cader in apatur vacue', 
-				// ..' in foramine vacue'
+        'Preferer a deponer in spatio vacue', 
     'settings menu prefer empty slots hint':
-        'Dar le preferentia in menu predefinite\n'
-        + ' per apatur vacue insinua',
+        'marca isto pro preferer un spatio vacue\n'
+        + ' quando traher e deponer un elemento',
     'uncheck to allow dropped\nreporters to kick out others':
-        'dismarca a activar reporters cadera\n'
-            + 'a capabile displacia alteres',
+        'dismarca isto pro permitter que\n'
+            + 'deponer un reportator displacia un altere',
     'Long form input dialog':
-        'Usa dialogo entrata forma longe',
+        'Dialogo de entrata in forma longe',
     'Plain prototype labels':
-        'Face plan le etiquettas prototypic',
+        'Etiquettas de prototypo simple',
     'uncheck to always show (+) symbols\nin block prototype labels':
-        'dismarca a expone (+) symbolos\n'
-        + 'in etiquettas prototypic per blocos ',
+        'dismarca pro sempre monstrar (+) symbolos\n'
+        + 'in etiquettas de prototypo de bloco',
     'check to hide (+) symbols\nin block prototype labels':
-        'marca a cella (+) symbols\n'
-        + 'in etiquettas prototypic per blocos',
+        'marca pro celar (+) symbolos\n'
+        + 'in etiquettas de prototypo de bloco',
     'check to always show slot\ntypes in the input dialog':
-        'marca a expone apatur typos\n'
-        + 'in dialogo entrata',
+        'marca pro sempre monstrar typos\n'
+        + 'de spatio in le dialogo de entrata',
     'uncheck to use the input\ndialog in short form':
-        'dismarka a usa dialogo entrata forma curte',
+        'dismarca pro usar le dialogo\nde entrata in forma curte',
     'Virtual keyboard':
-        'Virtual claviero',
+        'Claviero virtual',
     'uncheck to disable\nvirtual keyboard support\nfor mobile devices':
-        'dismarca a disactivar virtual claviero\n'
-            + 'per dispositivo mobile',
+        'dismarca pro disactivar\nle claviero virtual\n'
+            + 'pro dispositivos mobile',
     'check to enable\nvirtual keyboard support\nfor mobile devices':
-        'marca a activar virtual claviero\n'
-            + 'per dispositivo mobile',
+        'marca pro activar\nle claviero virtual\n'
+            + 'pro dispositivos mobile',
     'Input sliders':
-        'Entrata glissatores',
+        'Glissatores de entrata',
     'uncheck to disable\ninput sliders for\nentry fields':
-        'dismarca a disactivar\n'
-        + 'entrata glissatores\n'
-        + 'pro campos entrate',
+        'dismarca pro disactivar\n'
+        + 'le glissatores de entrata\n'
+        + 'pro campos de entrata',
     'check to enable\ninput sliders for\nentry fields':
-        'marca a activar\n'
-         + 'entrata glissatores\n'
-         + 'pro campos entrate',
+        'marca pro activar\n'
+         + 'le glissatores de entrata\n'
+         + 'pro campos de entrata',
     'Clicking sound':
-        'Sona de clicca',
+        'Sono de clic',
     'uncheck to turn\nblock clicking\nsound off':
-        'dismarca a disactivar\nsona de clicca',
+        'dismarca pro disactivar\nle sono de cliccar\nun bloco',
     'check to turn\nblock clicking\nsound on':
-        'marca a activar\nsona de clicca',
+        'marca pro activar\nle sono de cliccar\nun bloco',
     'Animations':
-        'Animations',
+        'Animationes',
     'uncheck to disable\nIDE animations':
-        'dismarca a disactivar\nIDE-Animations',
+        'dismarca pro disactivar\nanimationes IDE',
     'Turbo mode':
-        'Turbo modo',
+        'Modo turbo',
     'check to prioritize\nscript execution':
-        'marca a prioitate\nexecution de scripte', // 'exequer'
+        'marca pro priorisar\nle execution de scripts'
     'uncheck to run scripts\nat normal speed':
-        'dismarca a comencia scriptes\n'
+        'dismarca pro executar scripts\n'
         + 'a velocitate normal', // 'celeritate'
     'check to enable\nIDE animations':
-        'marca a activar \nIDE animations',
+        'marca pro activar \nanimationes IDE',
     'Thread safe scripts':
-        'Filo secur scriptes',
+        'Scripts secur pro execution in parallel',
     'uncheck to allow\nscript reentrance':
-        'dismarca a permitte\nscripte readmitte',
+        'dismarca pro permitter\nle reentrata de scripts',
     'check to disallow\nscript reentrance':
-        'marca a prohibi\nscripte readmitte',
+        'marca pro impedir\nle reentrata de scripts',
     'Prefer smooth animations':
-        'Prefere aminationes lisia',
+        'Preferer aminationes lisie',
     'uncheck for greater speed\nat variable frame rates':
-        'dismarca pro plus veloce\n'  // 'accelera'
-         + 'ma variable rata\n'
-         + 'de frame monstra',
+        'dismarca pro un velocitate maximal\n'
+         + 'a frequentias variabile de photogrammas',
     'check for smooth, predictable\nanimations across computers':
-        'marca pro predice lisia\n'
-        + 'animationes trans computator systemas', // multi-platteforma
+        'marca pro animationes lisie e\n'
+        + 'previsibile in diverse computatores', // multi-platteforma
     'Flat line ends':
-        'Lineas fin quadrate',
+        'Fines platte de lineas',
     'check for flat ends of lines':
-        'marca pro lineas fin quadrate',
+        'marca pro fines platte de lineas',
     'uncheck for round ends of lines':
-        'dismarca pro lineas fin rotunde',
+        'dismarca pro fines rotunde de lineas',
 
     // inputs
     'with inputs':
-        'Con entratas',
+        'con entratas',
     'input names:':
-        'Entrata nomines:',
+        'nomines de entrata:',
     'Input Names:':
-        'Entrata nomines:',
+        'Nomines de entrata:',
     'input list:':
-        'Entrata Listes:',
+        'lista de entrata:',
 
     // context menus:
     'help':
-        'adjuva',
+        'adjuta',
 
     // palette:
     'hide primitives':
-        'cela primativos',
+        'celar primitivos',
     'show primitives':
-        'expone primativos',
+        'monstrar primitivos',
 
     // blocks:
     'help...':
-        'adjunta...',
+        'adjuta...',
     'relabel...':
-        'redacto etiquettas...',
+        'reetiquettar...',
     'duplicate':
-        'duplica',
+        'duplicar',
     'make a copy\nand pick it up':
-        'duplica e prende in mano',
+        'facer un copia\ne prender lo',
     'only duplicate this block':
-        'duploca solo esto bloco',
+        'solmente duplicar iste bloco',
     'delete':
-        'dele',
+        'deler',
     'script pic...':
-        'scripte pictura...',
+        'imagine de script...',
     'open a new window\nwith a picture of this script':
-        'Aperte fenestra nove\n'
-        + 'con pictura de este scripte',
+        'aperir un nove fenestra\n'
+        + 'con un imagine de iste script',
     'ringify':
-        'Anulamento',
+        'inquadrar',
     'unringify':
-        'Disanulamento',
+        'disinquadrar',
 
     // custom blocks:
     'delete block definition...':
-        'dele definition del bloco',
+        'deler definition del bloco',
     'edit...':
-        'edita...',
+        'modifiar...',
 
     // sprites:
     'edit':
-        'edita',
+        'modificar',
     'move':
-        'move',
+        'displaciar',
     'detach from':
-        'distacca de',
+        'distachar de',
     'detach all parts':
-        'distacca omni partes',
+        'distachar tote le partes',
     'export...':
-        'exporta...',
+        'exportar...',
 
     // stage:
     'show all':
-        'monstra omni',
+        'monstra totes',
     'pic...':
-        'pictura...',
+        'imagine...',
     'open a new window\nwith a picture of the stage':
-        'expone nove fenestra\n'
-		+ 'con pictura del scena',
+        'aperir un nove fenestra\n'
+		+ 'con un imagine del scena',
 
     // scripting area
     'clean up':
-        'abluenta',
+        'disincombrar',
     'arrange scripts\nvertically':
-        'presentar scriptes\n' + 'verticalitate',
+        'arrangiar scripts\n' + 'verticalmente',
     'add comment':
-        'adde un commento',
+        'adder un commento',
     'undrop':
-        'disdepone',
+        'reprender',
     'undo the last\nblock drop\nin this pane':
-        'disfacer bloco depone antea\n'
-		+ 'in este pannello',
+        'discfacer le ultime\ndeposition de un bloco\nin iste pannello',
     'scripts pic...':
-        'scriptes pictura...',
+        'imagine de scripts...',
     'open a new window\nwith a picture of all scripts':
-        'expone nove fenestra\n'
-		+ 'con pictura del omni scriptes',
+        'aperir un nove fenestra\ncon un imagine de tote le scripts',
     'make a block...':
-        'face un bloco...',
+        'crear un bloco...',
 
     // costumes
     'rename':
-        'edita le nomine',
+        'renominar',
     'export':
-        'exporta',
+        'exportar',
     'rename costume':
-        'edita le nomine del costume',
+        'renominar costume',
 
     // sounds
     'Play sound':
-        'Sona le sono',
+        'Reproducer sono',
     'Stop sound':
-        'Arresta sono',
+        'Stoppar sono',
     'Stop':
-        'Halto',
+        'Stop',
     'Play':
-        'Sona',
+        'Sonar',
     'rename sound':
-        'Edita le nomine del sono',
+        'renominar sono',
 
     // dialogs
     // buttons
@@ -950,11 +945,11 @@ SnapTranslator.dict.ia = {
     'Ok':
         'OK',
     'Cancel':
-        'Revoca',
+        'Cancellar',
     'Yes':
         'Si',
     'No':
-        'Non',
+        'No',
 
     // help
     'Help':
@@ -962,119 +957,117 @@ SnapTranslator.dict.ia = {
 
     // zoom blocks
     'Zoom blocks':
-        'Zoom blocos',
+        'Zoom de blocos',
     'build':
-        'edifica',
+        'construer',
     'your own':
-        'vostre',
+        'le tue',
     'blocks':
         'blocos',
     'normal (1x)':
         'normal (1x)',
     'demo (1.2x)':
-        'por demonstration (1.2x)',
+        'demo (1.2x)',
     'presentation (1.4x)':
-        'por presentation (1.4x)',
+        'presentation (1.4x)',
     'big (2x)':
         'grande (2x)',
     'huge (4x)':
-        'grosse (4x)',
+        'enorme (4x)',
     'giant (8x)':
-        'gigante (8x)',
+        'gigantesc (8x)',
     'monstrous (10x)':  // 'monstruose'
-        'maxima (10x)',
+        'monstruose (10x)',
 
     // Project Manager
     'Untitled':
-        'Nulle titulo',  // 'Innominate'
+        'Sin titulo',  // 'Sin nomine'
     'Open Project':
-        'Aperte Projecto',
+        'Projecto aperte',
     '(empty)':
         '(vacue)',
     'Saved!':
-        'Secur!',  // 'Faceva secur per salvo a file'
+        'Salveguardate!',
     'Delete Project':
-        'Dele Projecto',
+        'Deler projecto',
     'Are you sure you want to delete':
-        'A certe que vos vole a dele?',
+        'Es tu secur de voler deler',
     'rename...':
-        'Edita le nomine...',
+        'renominar...',
 
     // costume editor
     'Costume Editor':
-        'Costume Editor',
+        'Editor de costumes',
     'click or drag crosshairs to move the rotation center':
-        'clicca o trahe capilo cruce \n'
-        + 'a move le centro de rotation',
+        'clicca o trahe le cruces pro displaciar le centro de rotation',
 
     // project notes
     'Project Notes':
-        'Annotos del projecto',
+        'Notas del projecto',
 
     // new project
     'New Project':
-        'Projecto Nove',
+        'Nove projecto',
     'Replace the current project with a new one?':
-        'A surroga le projecto existente pro un nove?',
+        'Reimplaciar le projecto existente per un nove?',
 
     // save project
     'Save Project As...':
-        'Secur Projecto Como...',
+        'Salveguardar projecto como...',
 
     // export blocks
     'Export blocks':
-        'Exporta blocos',
+        'Exportar blocos',
     'Import blocks':
-        'Importa blocos',
+        'Importar blocos',
     'this project doesn\'t have any\ncustom global blocks yet':
-        'esti projecto no trova\n'
-        + 'blocos artificiose global',
+        'iste projecto non ha ancora\nblocos global personalisate',
     'select':
-        'selecta',
+        'seliger',
     'none':
-        'necun',  // 'necuno'
+        'nulle',  // 'necun'
 
     // variable dialog
     'for all sprites':
-        'por omni spiritos',
+        'pro tote le spiritos',
     'for this sprite only':
-        'solo por este spirito',
+        'solmente pro iste spirito',
 
     // block dialog
     'Change block':
-        'Cambia bloco',
+        'Cambiar bloco',
     'Command':
         'Commando',
     'Reporter':
-        'Reporter',
+        'Reportator',
     'Predicate':
-        'Proposition',
+        'Predicato',
 
     // block editor
     'Block Editor':
         'Editor de blocos',
     'Apply':
-        'Applica',
+        'Applicar',
 
     // block deletion dialog
     'Delete Custom Block':
-        'Dele bloco artificiose',
+        'Deler bloco personalisate',
     'block deletion dialog text':
-        'Edita bloco dele dialogo texto',  //??
+        'Texto del dialogo de deletion de bloco',
 
     // input dialog
     'Create input name':
-        'Crea entrata nomine',
+        'Crear nomine de entrata',
     'Edit input name':
-        'Edita entrata nomine',
+        'Modifiar nomine de entrata',
     'Edit label fragment':
-        'Edita etiquetta fragmento',  // 'Edit texto clasma'
+        'Modificar framento de etiquetta',
     'Title text':
-        'Titulo texto',
+        'Texto del titulo',
     'Input name':
-        'Entrata nomine',
+        'Nomine del entrata',
     'Delete':
-        'Dele',
+        'Deler',
     'Object':
         'Objecto',
     'Number':
@@ -1082,47 +1075,47 @@ SnapTranslator.dict.ia = {
     'Text':
         'Texto',
     'List':
-        'Liste',
+        'Lista',
     'Any type':
-        'Qualcunque Typo',
+        'Qualcunque typo',
     'Boolean (T/F)':
-        'Ver o False (V/F)',
+        'Boolean (V/F)',
     'Command\n(inline)':
         'Commando\n(in linea)',
     'Command\n(C-shape)':
-        'Commando\n(C-forma)',
+        'Commando\n(in forma de C)',
     'Any\n(unevaluated)':
-        'Qualcunque\n(non-evaluta)',
+        'Qualcunque\n(non evalutate)',
     'Boolean\n(unevaluated)':
-        'Ver o False\n(non-evaluta)',
+        'Boolean\n(non evalutate)',
     'Single input.':
-        'Sol entrata',
+        'Entrata singule.',
     'Default Value:':
-        'Valor predefiniva:', // normal
+        'Valor predefinite:', // normal
     'Multiple inputs (value is list of inputs)':
-        'entrata plure (valor es lista)',  // 'aliquot'
+        'Plure entratas (le valor es le lista de entratas)', 
     'Upvar - make internal variable visible to caller':
-        'Cassa in Alto - face cassa interne visible a evocator', 
+        'Upvar: render un variabile interne visibile pro le appellator', 
 
     // About Snap
     'About Snap':
-        'in re Snap',
+        'A proposito de Snap',
     'Back...':
-        'a retro!...',
+        'Retornar...',
     'License...':
         'Licentia...',
     'Modules...':
         'Modulos...',
     'Credits...':
-        'Credito...',
+        'Creditos...',
     'Translators...':
         'Traductores...',
     'License':
         'Licentia',
     'current module versions:':
-        'currente modulo versiones',
+        'versiones actual del modulos:',
     'Contributors':
-        'Contribuentes',
+        'Contributores',
     'Translations':
         'Traductiones..',
 
@@ -1138,24 +1131,24 @@ SnapTranslator.dict.ia = {
     'slider max...':
         'glissator maxime...',
     'import...':
-        'importa...',
+        'importar...',
     'Slider minimum value':
-        'glissator minime valor',
+        'Valor minime pro glissator',
     'Slider maximum value':
-        'glissator maxime valor',
+        'Valor maxime pro glissator',
 
     // list watchers
     'length: ':
-        'Longor: ',
+        'longor: ',
 
     // coments
     'add comment here...':
-        'adde commento hic',
+        'adde commento hic...',
 
     // drow downs
     // directions
     '(90) right':
-        '(90) dextera',
+        '(90) dextra',
     '(-90) left':
         '(-90) sinistra',
     '(0) up':
@@ -1165,11 +1158,11 @@ SnapTranslator.dict.ia = {
 
     // collision detection
     'mouse-pointer':
-        'mure punctator',
+        'cursor del mouse',
     'edge':
-        'bordo talia',
+        'bordo',
     'pen trails':
-        'penna tracia',
+        'tracias de penna',
 
     // costumes
     'Turtle':
@@ -1181,7 +1174,7 @@ SnapTranslator.dict.ia = {
     'brightness':
         'brillantia', // 'nitor'
     'ghost':
-        'apparition',  // 'spectro'
+        'phantasma',  // 'spectro'
     'negative':
         'negative',
     'comic':
@@ -1191,15 +1184,15 @@ SnapTranslator.dict.ia = {
 
     // keys
     'space':
-        'spatio vacue',
+        'spatio',
     'up arrow':
-        'alto flecha',  // 'sagitta'
+        'flecha in alto',  // 'sagitta'
     'down arrow':
-        'basso flecha',
+        'flecha a basso',
     'right arrow':
-        'dextera flecha',
+        'flecha a dextra',
     'left arrow':
-        'sinistra flecha',
+        'flecha a sinistra',
     'a':
         'a',
     'b':
@@ -1275,13 +1268,13 @@ SnapTranslator.dict.ia = {
 
     // messages
     'new...':
-        'Nove...',
+        'nove...',
 
     // math functions
     'abs':
         'abs',
     'floor':
-        'floor',
+        'rotundar a infra',
     'sqrt':
         'sqrt',
     'sin':
@@ -1303,9 +1296,9 @@ SnapTranslator.dict.ia = {
 
     // delimiters
     'letter':
-        'character',
+        'littera',
     'whitespace':
-        'spatio blanco',  // spatio vacue'
+        'spatio blanc',  // spatio vacue'
     'line':
         'linea',
     'tab':
@@ -1315,23 +1308,23 @@ SnapTranslator.dict.ia = {
 
     // data types
     'number':
-        'Numero',
+        'numero',
     'text':
-        'Texto',
+        'texto',
     'Boolean':
-        'Ver o False',
+        'Boolean',
     'list':
-        'Lista',
+        'lista',
     'command':
-        'Commando',
+        'commando',
     'reporter':
-        'Reporter',
+        'reportator',
     'predicate':
-        'Proposition',
+        'predicato',
 
     // list indices
     'last':
         'ultime',
     'any':
-        'alcuno'  // 'qualcun'
+        'qualcunque'
 };
